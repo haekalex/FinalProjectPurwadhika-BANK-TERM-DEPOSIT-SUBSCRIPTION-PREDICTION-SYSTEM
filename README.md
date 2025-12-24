@@ -15,7 +15,7 @@ Recall for the positive class (YES).
 
 **Main notebook:**
 - `FinalProjectBeta.ipynb`
-
+- 'Dataset : https://www.kaggle.com/datasets/volodymyrgavrysh/bank-marketing-campaigns-dataset'
 ---
 
 ## BUSINESS UNDERSTANDING
