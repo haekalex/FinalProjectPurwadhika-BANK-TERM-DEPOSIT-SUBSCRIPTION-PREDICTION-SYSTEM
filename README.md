@@ -71,20 +71,13 @@ Key challenges faced by the bank:
 ## Rumus Recall & F1-Score
 
 **Recall (Sensitivity / TPR)**  
-\[
-\text{Recall} = \frac{TP}{TP + FN}
-\]
+Recall = TP / (TP + FN)
 
 **F1-Score**  
-\[
-\text{F1} = \frac{2 \cdot (\text{Precision} \cdot \text{Recall})}{\text{Precision} + \text{Recall}}
-\]
+F1 = 2 × (Precision × Recall) / (Precision + Recall)
 
-dengan:
-\[
-\text{Precision} = \frac{TP}{TP + FP}
-\]
-
+dengan:  
+Precision = TP / (TP + FP)
 ---
 
 ## DATASET INFORMATION
