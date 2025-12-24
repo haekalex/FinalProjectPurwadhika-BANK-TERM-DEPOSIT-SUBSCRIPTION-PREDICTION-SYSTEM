@@ -1,0 +1,24 @@
+# Core numerical & data
+numpy>=1.26.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.2
+
+# Scientific / statistics
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Machine Learning core
+scikit-learn==1.2.2
+
+# Imbalanced learning
+imbalanced-learn==0.10.1
+
+# Encoding
+category-encoders==2.6.3
+
+# Gradient boosting
+xgboost>=2.0.0
+lightgbm>=4.0.0
